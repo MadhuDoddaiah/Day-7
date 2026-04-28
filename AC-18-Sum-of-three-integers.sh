@@ -1,4 +1,5 @@
 #!/bin/bash -x
+#This is the usecase problems
 
 a=(-3 2 1)
 sum=0
